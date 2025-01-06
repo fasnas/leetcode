@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0066-plus-one](https://github.com/fasnas/leetcode/tree/master/0066-plus-one) |
 | [0088-merge-sorted-array](https://github.com/fasnas/leetcode/tree/master/0088-merge-sorted-array) |
 | [0136-single-number](https://github.com/fasnas/leetcode/tree/master/0136-single-number) |
+| [0169-majority-element](https://github.com/fasnas/leetcode/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/fasnas/leetcode/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/fasnas/leetcode/tree/master/0268-missing-number) |
 ## Bit Manipulation
@@ -31,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/fasnas/leetcode/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/fasnas/leetcode/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/fasnas/leetcode/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/fasnas/leetcode/tree/master/0268-missing-number) |
@@ -38,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0088-merge-sorted-array](https://github.com/fasnas/leetcode/tree/master/0088-merge-sorted-array) |
+| [0169-majority-element](https://github.com/fasnas/leetcode/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/fasnas/leetcode/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/fasnas/leetcode/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/fasnas/leetcode/tree/master/0268-missing-number) |
@@ -70,4 +73,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0258-add-digits](https://github.com/fasnas/leetcode/tree/master/0258-add-digits) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/fasnas/leetcode/tree/master/0169-majority-element) |
+## Counting
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/fasnas/leetcode/tree/master/0169-majority-element) |
 <!---LeetCode Topics End-->
