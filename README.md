@@ -61,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1806-count-of-matches-in-tournament](https://github.com/fasnas/leetcode/tree/master/1806-count-of-matches-in-tournament) |
 | [2383-add-two-integers](https://github.com/fasnas/leetcode/tree/master/2383-add-two-integers) |
 | [2481-strictly-palindromic-number](https://github.com/fasnas/leetcode/tree/master/2481-strictly-palindromic-number) |
+| [2556-convert-the-temperature](https://github.com/fasnas/leetcode/tree/master/2556-convert-the-temperature) |
 ## Binary Search
 |  |
 | ------- |
