@@ -2,8 +2,17 @@
  * @param {number[]} nums
  * @return {number[]}
  */
-const smallerNumbersThanCurrent = (nums) => {
-  return nums.map((num, i) => {
-    return nums.filter((n) => n < num).length;
-  });
+var smallerNumbersThanCurrent = function (nums) {
+    let a = [];
+
+    for (let i = 0; i < nums.length; i++) {
+        let count =0;
+        for (let j = 0; j < nums.length; j++) {
+            if (nums[i] >nums[j]) {
+               count++;
+            } 
+        }
+       a.push(count);
+    }
+      return a;
 };
