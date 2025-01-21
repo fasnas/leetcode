@@ -31,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0283-move-zeroes](https://github.com/fasnas/leetcode/tree/master/0283-move-zeroes) |
 | [0941-sort-array-by-parity](https://github.com/fasnas/leetcode/tree/master/0941-sort-array-by-parity) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/fasnas/leetcode/tree/master/1421-find-numbers-with-even-number-of-digits) |
+| [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/fasnas/leetcode/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 | [2058-concatenation-of-array](https://github.com/fasnas/leetcode/tree/master/2058-concatenation-of-array) |
 ## Bit Manipulation
 |  |
@@ -44,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/fasnas/leetcode/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/fasnas/leetcode/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/fasnas/leetcode/tree/master/0268-missing-number) |
+| [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/fasnas/leetcode/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 ## Sorting
 |  |
 | ------- |
@@ -53,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/fasnas/leetcode/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/fasnas/leetcode/tree/master/0268-missing-number) |
 | [0941-sort-array-by-parity](https://github.com/fasnas/leetcode/tree/master/0941-sort-array-by-parity) |
+| [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/fasnas/leetcode/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 ## Math
 |  |
 | ------- |
@@ -96,6 +99,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/fasnas/leetcode/tree/master/0169-majority-element) |
+| [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/fasnas/leetcode/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 ## Stack
 |  |
 | ------- |
