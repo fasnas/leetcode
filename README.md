@@ -41,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0136-single-number](https://github.com/fasnas/leetcode/tree/master/0136-single-number) |
+| [0231-power-of-two](https://github.com/fasnas/leetcode/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/fasnas/leetcode/tree/master/0268-missing-number) |
 ## Hash Table
 |  |
@@ -65,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0050-powx-n](https://github.com/fasnas/leetcode/tree/master/0050-powx-n) |
 | [0066-plus-one](https://github.com/fasnas/leetcode/tree/master/0066-plus-one) |
+| [0231-power-of-two](https://github.com/fasnas/leetcode/tree/master/0231-power-of-two) |
 | [0258-add-digits](https://github.com/fasnas/leetcode/tree/master/0258-add-digits) |
 | [0268-missing-number](https://github.com/fasnas/leetcode/tree/master/0268-missing-number) |
 | [0412-fizz-buzz](https://github.com/fasnas/leetcode/tree/master/0412-fizz-buzz) |
@@ -86,6 +88,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0050-powx-n](https://github.com/fasnas/leetcode/tree/master/0050-powx-n) |
+| [0231-power-of-two](https://github.com/fasnas/leetcode/tree/master/0231-power-of-two) |
 ## Brainteaser
 |  |
 | ------- |
