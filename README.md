@@ -70,6 +70,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0231-power-of-two](https://github.com/fasnas/leetcode/tree/master/0231-power-of-two) |
 | [0258-add-digits](https://github.com/fasnas/leetcode/tree/master/0258-add-digits) |
 | [0268-missing-number](https://github.com/fasnas/leetcode/tree/master/0268-missing-number) |
+| [0326-power-of-three](https://github.com/fasnas/leetcode/tree/master/0326-power-of-three) |
 | [0412-fizz-buzz](https://github.com/fasnas/leetcode/tree/master/0412-fizz-buzz) |
 | [0441-arranging-coins](https://github.com/fasnas/leetcode/tree/master/0441-arranging-coins) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/fasnas/leetcode/tree/master/1421-find-numbers-with-even-number-of-digits) |
@@ -90,6 +91,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0050-powx-n](https://github.com/fasnas/leetcode/tree/master/0050-powx-n) |
 | [0231-power-of-two](https://github.com/fasnas/leetcode/tree/master/0231-power-of-two) |
+| [0326-power-of-three](https://github.com/fasnas/leetcode/tree/master/0326-power-of-three) |
 ## Brainteaser
 |  |
 | ------- |
