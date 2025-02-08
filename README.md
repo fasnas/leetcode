@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0742-to-lower-case](https://github.com/fasnas/leetcode/tree/master/0742-to-lower-case) |
 | [2128-reverse-prefix-of-word](https://github.com/fasnas/leetcode/tree/master/2128-reverse-prefix-of-word) |
 | [2977-check-if-a-string-is-an-acronym-of-words](https://github.com/fasnas/leetcode/tree/master/2977-check-if-a-string-is-an-acronym-of-words) |
+| [3379-score-of-a-string](https://github.com/fasnas/leetcode/tree/master/3379-score-of-a-string) |
 ## Array
 |  |
 | ------- |
