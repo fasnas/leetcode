@@ -1,6 +1,6 @@
 /**
  * @param {character[]} s
- * @return {void} Do not return anything, modify s in-place instead.
+ * @return {void}
  */
 var reverseString = function(s) {
     return s.reverse()
