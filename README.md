@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0344-reverse-string](https://github.com/fasnas/leetcode/tree/master/0344-reverse-string) |
 | [0412-fizz-buzz](https://github.com/fasnas/leetcode/tree/master/0412-fizz-buzz) |
 | [0742-to-lower-case](https://github.com/fasnas/leetcode/tree/master/0742-to-lower-case) |
+| [1781-check-if-two-string-arrays-are-equivalent](https://github.com/fasnas/leetcode/tree/master/1781-check-if-two-string-arrays-are-equivalent) |
 | [2128-reverse-prefix-of-word](https://github.com/fasnas/leetcode/tree/master/2128-reverse-prefix-of-word) |
 | [2231-find-first-palindromic-string-in-the-array](https://github.com/fasnas/leetcode/tree/master/2231-find-first-palindromic-string-in-the-array) |
 | [2977-check-if-a-string-is-an-acronym-of-words](https://github.com/fasnas/leetcode/tree/master/2977-check-if-a-string-is-an-acronym-of-words) |
@@ -43,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/fasnas/leetcode/tree/master/1421-find-numbers-with-even-number-of-digits) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/fasnas/leetcode/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 | [1635-number-of-good-pairs](https://github.com/fasnas/leetcode/tree/master/1635-number-of-good-pairs) |
+| [1781-check-if-two-string-arrays-are-equivalent](https://github.com/fasnas/leetcode/tree/master/1781-check-if-two-string-arrays-are-equivalent) |
 | [2058-concatenation-of-array](https://github.com/fasnas/leetcode/tree/master/2058-concatenation-of-array) |
 | [2231-find-first-palindromic-string-in-the-array](https://github.com/fasnas/leetcode/tree/master/2231-find-first-palindromic-string-in-the-array) |
 | [2542-average-value-of-even-numbers-that-are-divisible-by-three](https://github.com/fasnas/leetcode/tree/master/2542-average-value-of-even-numbers-that-are-divisible-by-three) |
