@@ -48,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2058-concatenation-of-array](https://github.com/fasnas/leetcode/tree/master/2058-concatenation-of-array) |
 | [2231-find-first-palindromic-string-in-the-array](https://github.com/fasnas/leetcode/tree/master/2231-find-first-palindromic-string-in-the-array) |
 | [2542-average-value-of-even-numbers-that-are-divisible-by-three](https://github.com/fasnas/leetcode/tree/master/2542-average-value-of-even-numbers-that-are-divisible-by-three) |
+| [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/fasnas/leetcode/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
 | [2876-number-of-employees-who-met-the-target](https://github.com/fasnas/leetcode/tree/master/2876-number-of-employees-who-met-the-target) |
 | [2977-check-if-a-string-is-an-acronym-of-words](https://github.com/fasnas/leetcode/tree/master/2977-check-if-a-string-is-an-acronym-of-words) |
 ## Bit Manipulation
@@ -106,6 +107,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0035-search-insert-position](https://github.com/fasnas/leetcode/tree/master/0035-search-insert-position) |
 | [0268-missing-number](https://github.com/fasnas/leetcode/tree/master/0268-missing-number) |
 | [0441-arranging-coins](https://github.com/fasnas/leetcode/tree/master/0441-arranging-coins) |
+| [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/fasnas/leetcode/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
 ## Recursion
 |  |
 | ------- |
@@ -140,6 +142,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/fasnas/leetcode/tree/master/0169-majority-element) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/fasnas/leetcode/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 | [1635-number-of-good-pairs](https://github.com/fasnas/leetcode/tree/master/1635-number-of-good-pairs) |
+| [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/fasnas/leetcode/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
 ## Stack
 |  |
 | ------- |
