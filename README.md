@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0344-reverse-string](https://github.com/fasnas/leetcode/tree/master/0344-reverse-string) |
 | [0412-fizz-buzz](https://github.com/fasnas/leetcode/tree/master/0412-fizz-buzz) |
 | [0742-to-lower-case](https://github.com/fasnas/leetcode/tree/master/0742-to-lower-case) |
+| [0812-rotate-string](https://github.com/fasnas/leetcode/tree/master/0812-rotate-string) |
 | [1781-check-if-two-string-arrays-are-equivalent](https://github.com/fasnas/leetcode/tree/master/1781-check-if-two-string-arrays-are-equivalent) |
 | [2128-reverse-prefix-of-word](https://github.com/fasnas/leetcode/tree/master/2128-reverse-prefix-of-word) |
 | [2219-maximum-number-of-words-found-in-sentences](https://github.com/fasnas/leetcode/tree/master/2219-maximum-number-of-words-found-in-sentences) |
@@ -154,4 +155,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/fasnas/leetcode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0812-rotate-string](https://github.com/fasnas/leetcode/tree/master/0812-rotate-string) |
 <!---LeetCode Topics End-->
