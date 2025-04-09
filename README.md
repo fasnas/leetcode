@@ -34,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2977-check-if-a-string-is-an-acronym-of-words](https://github.com/fasnas/leetcode/tree/master/2977-check-if-a-string-is-an-acronym-of-words) |
 | [3194-find-words-containing-character](https://github.com/fasnas/leetcode/tree/master/3194-find-words-containing-character) |
 | [3379-score-of-a-string](https://github.com/fasnas/leetcode/tree/master/3379-score-of-a-string) |
+| [3811-reverse-degree-of-a-string](https://github.com/fasnas/leetcode/tree/master/3811-reverse-degree-of-a-string) |
 ## Array
 |  |
 | ------- |
@@ -140,6 +141,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0412-fizz-buzz](https://github.com/fasnas/leetcode/tree/master/0412-fizz-buzz) |
 | [1806-count-of-matches-in-tournament](https://github.com/fasnas/leetcode/tree/master/1806-count-of-matches-in-tournament) |
 | [2058-concatenation-of-array](https://github.com/fasnas/leetcode/tree/master/2058-concatenation-of-array) |
+| [3811-reverse-degree-of-a-string](https://github.com/fasnas/leetcode/tree/master/3811-reverse-degree-of-a-string) |
 ## Number Theory
 |  |
 | ------- |
