@@ -51,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0941-sort-array-by-parity](https://github.com/fasnas/leetcode/tree/master/0941-sort-array-by-parity) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/fasnas/leetcode/tree/master/1421-find-numbers-with-even-number-of-digits) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/fasnas/leetcode/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
+| [1580-shuffle-the-array](https://github.com/fasnas/leetcode/tree/master/1580-shuffle-the-array) |
 | [1635-number-of-good-pairs](https://github.com/fasnas/leetcode/tree/master/1635-number-of-good-pairs) |
 | [1781-check-if-two-string-arrays-are-equivalent](https://github.com/fasnas/leetcode/tree/master/1781-check-if-two-string-arrays-are-equivalent) |
 | [1791-richest-customer-wealth](https://github.com/fasnas/leetcode/tree/master/1791-richest-customer-wealth) |
