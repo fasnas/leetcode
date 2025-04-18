@@ -54,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/fasnas/leetcode/tree/master/1421-find-numbers-with-even-number-of-digits) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/fasnas/leetcode/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 | [1580-shuffle-the-array](https://github.com/fasnas/leetcode/tree/master/1580-shuffle-the-array) |
+| [1603-running-sum-of-1d-array](https://github.com/fasnas/leetcode/tree/master/1603-running-sum-of-1d-array) |
 | [1635-number-of-good-pairs](https://github.com/fasnas/leetcode/tree/master/1635-number-of-good-pairs) |
 | [1781-check-if-two-string-arrays-are-equivalent](https://github.com/fasnas/leetcode/tree/master/1781-check-if-two-string-arrays-are-equivalent) |
 | [1791-richest-customer-wealth](https://github.com/fasnas/leetcode/tree/master/1791-richest-customer-wealth) |
@@ -192,4 +193,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0387-first-unique-character-in-a-string](https://github.com/fasnas/leetcode/tree/master/0387-first-unique-character-in-a-string) |
+## Prefix Sum
+|  |
+| ------- |
+| [1603-running-sum-of-1d-array](https://github.com/fasnas/leetcode/tree/master/1603-running-sum-of-1d-array) |
 <!---LeetCode Topics End-->
