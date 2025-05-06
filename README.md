@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0283-move-zeroes](https://github.com/fasnas/leetcode/tree/master/0283-move-zeroes) |
 | [0344-reverse-string](https://github.com/fasnas/leetcode/tree/master/0344-reverse-string) |
 | [0941-sort-array-by-parity](https://github.com/fasnas/leetcode/tree/master/0941-sort-array-by-parity) |
+| [0958-sort-array-by-parity-ii](https://github.com/fasnas/leetcode/tree/master/0958-sort-array-by-parity-ii) |
 | [1894-merge-strings-alternately](https://github.com/fasnas/leetcode/tree/master/1894-merge-strings-alternately) |
 | [2128-reverse-prefix-of-word](https://github.com/fasnas/leetcode/tree/master/2128-reverse-prefix-of-word) |
 | [2231-find-first-palindromic-string-in-the-array](https://github.com/fasnas/leetcode/tree/master/2231-find-first-palindromic-string-in-the-array) |
@@ -55,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0283-move-zeroes](https://github.com/fasnas/leetcode/tree/master/0283-move-zeroes) |
 | [0414-third-maximum-number](https://github.com/fasnas/leetcode/tree/master/0414-third-maximum-number) |
 | [0941-sort-array-by-parity](https://github.com/fasnas/leetcode/tree/master/0941-sort-array-by-parity) |
+| [0958-sort-array-by-parity-ii](https://github.com/fasnas/leetcode/tree/master/0958-sort-array-by-parity-ii) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/fasnas/leetcode/tree/master/1421-find-numbers-with-even-number-of-digits) |
 | [1476-count-negative-numbers-in-a-sorted-matrix](https://github.com/fasnas/leetcode/tree/master/1476-count-negative-numbers-in-a-sorted-matrix) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/fasnas/leetcode/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
@@ -101,6 +103,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/fasnas/leetcode/tree/master/0268-missing-number) |
 | [0414-third-maximum-number](https://github.com/fasnas/leetcode/tree/master/0414-third-maximum-number) |
 | [0941-sort-array-by-parity](https://github.com/fasnas/leetcode/tree/master/0941-sort-array-by-parity) |
+| [0958-sort-array-by-parity-ii](https://github.com/fasnas/leetcode/tree/master/0958-sort-array-by-parity-ii) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/fasnas/leetcode/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 | [2148-minimum-number-of-moves-to-seat-everyone](https://github.com/fasnas/leetcode/tree/master/2148-minimum-number-of-moves-to-seat-everyone) |
 ## Math
