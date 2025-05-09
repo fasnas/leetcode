@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/fasnas/leetcode/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/fasnas/leetcode/tree/master/0344-reverse-string) |
 | [0387-first-unique-character-in-a-string](https://github.com/fasnas/leetcode/tree/master/0387-first-unique-character-in-a-string) |
+| [0389-find-the-difference](https://github.com/fasnas/leetcode/tree/master/0389-find-the-difference) |
 | [0412-fizz-buzz](https://github.com/fasnas/leetcode/tree/master/0412-fizz-buzz) |
 | [0742-to-lower-case](https://github.com/fasnas/leetcode/tree/master/0742-to-lower-case) |
 | [0782-jewels-and-stones](https://github.com/fasnas/leetcode/tree/master/0782-jewels-and-stones) |
@@ -82,6 +83,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/fasnas/leetcode/tree/master/0268-missing-number) |
 | [0342-power-of-four](https://github.com/fasnas/leetcode/tree/master/0342-power-of-four) |
 | [0371-sum-of-two-integers](https://github.com/fasnas/leetcode/tree/master/0371-sum-of-two-integers) |
+| [0389-find-the-difference](https://github.com/fasnas/leetcode/tree/master/0389-find-the-difference) |
 | [1444-number-of-steps-to-reduce-a-number-to-zero](https://github.com/fasnas/leetcode/tree/master/1444-number-of-steps-to-reduce-a-number-to-zero) |
 ## Hash Table
 |  |
@@ -91,6 +93,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/fasnas/leetcode/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/fasnas/leetcode/tree/master/0268-missing-number) |
 | [0387-first-unique-character-in-a-string](https://github.com/fasnas/leetcode/tree/master/0387-first-unique-character-in-a-string) |
+| [0389-find-the-difference](https://github.com/fasnas/leetcode/tree/master/0389-find-the-difference) |
 | [0782-jewels-and-stones](https://github.com/fasnas/leetcode/tree/master/0782-jewels-and-stones) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/fasnas/leetcode/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 | [1635-number-of-good-pairs](https://github.com/fasnas/leetcode/tree/master/1635-number-of-good-pairs) |
@@ -102,6 +105,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/fasnas/leetcode/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/fasnas/leetcode/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/fasnas/leetcode/tree/master/0268-missing-number) |
+| [0389-find-the-difference](https://github.com/fasnas/leetcode/tree/master/0389-find-the-difference) |
 | [0414-third-maximum-number](https://github.com/fasnas/leetcode/tree/master/0414-third-maximum-number) |
 | [0941-sort-array-by-parity](https://github.com/fasnas/leetcode/tree/master/0941-sort-array-by-parity) |
 | [0958-sort-array-by-parity-ii](https://github.com/fasnas/leetcode/tree/master/0958-sort-array-by-parity-ii) |
