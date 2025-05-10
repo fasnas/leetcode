@@ -33,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0812-rotate-string](https://github.com/fasnas/leetcode/tree/master/0812-rotate-string) |
 | [1205-defanging-an-ip-address](https://github.com/fasnas/leetcode/tree/master/1205-defanging-an-ip-address) |
 | [1781-check-if-two-string-arrays-are-equivalent](https://github.com/fasnas/leetcode/tree/master/1781-check-if-two-string-arrays-are-equivalent) |
+| [1797-goal-parser-interpretation](https://github.com/fasnas/leetcode/tree/master/1797-goal-parser-interpretation) |
 | [1894-merge-strings-alternately](https://github.com/fasnas/leetcode/tree/master/1894-merge-strings-alternately) |
 | [2128-reverse-prefix-of-word](https://github.com/fasnas/leetcode/tree/master/2128-reverse-prefix-of-word) |
 | [2219-maximum-number-of-words-found-in-sentences](https://github.com/fasnas/leetcode/tree/master/2219-maximum-number-of-words-found-in-sentences) |
