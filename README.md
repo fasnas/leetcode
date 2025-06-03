@@ -145,6 +145,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0371-sum-of-two-integers](https://github.com/fasnas/leetcode/tree/master/0371-sum-of-two-integers) |
 | [0412-fizz-buzz](https://github.com/fasnas/leetcode/tree/master/0412-fizz-buzz) |
 | [0441-arranging-coins](https://github.com/fasnas/leetcode/tree/master/0441-arranging-coins) |
+| [1086-divisor-game](https://github.com/fasnas/leetcode/tree/master/1086-divisor-game) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/fasnas/leetcode/tree/master/1421-find-numbers-with-even-number-of-digits) |
 | [1444-number-of-steps-to-reduce-a-number-to-zero](https://github.com/fasnas/leetcode/tree/master/1444-number-of-steps-to-reduce-a-number-to-zero) |
 | [1635-number-of-good-pairs](https://github.com/fasnas/leetcode/tree/master/1635-number-of-good-pairs) |
@@ -177,6 +178,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Brainteaser
 |  |
 | ------- |
+| [1086-divisor-game](https://github.com/fasnas/leetcode/tree/master/1086-divisor-game) |
 | [2481-strictly-palindromic-number](https://github.com/fasnas/leetcode/tree/master/2481-strictly-palindromic-number) |
 ## Simulation
 |  |
@@ -258,4 +260,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0100-same-tree](https://github.com/fasnas/leetcode/tree/master/0100-same-tree) |
+## Dynamic Programming
+|  |
+| ------- |
+| [1086-divisor-game](https://github.com/fasnas/leetcode/tree/master/1086-divisor-game) |
+## Game Theory
+|  |
+| ------- |
+| [1086-divisor-game](https://github.com/fasnas/leetcode/tree/master/1086-divisor-game) |
 <!---LeetCode Topics End-->
