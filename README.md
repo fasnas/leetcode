@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0125-valid-palindrome](https://github.com/fasnas/leetcode/tree/master/0125-valid-palindrome) |
 | [0283-move-zeroes](https://github.com/fasnas/leetcode/tree/master/0283-move-zeroes) |
 | [0344-reverse-string](https://github.com/fasnas/leetcode/tree/master/0344-reverse-string) |
+| [0349-intersection-of-two-arrays](https://github.com/fasnas/leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0941-sort-array-by-parity](https://github.com/fasnas/leetcode/tree/master/0941-sort-array-by-parity) |
 | [0958-sort-array-by-parity-ii](https://github.com/fasnas/leetcode/tree/master/0958-sort-array-by-parity-ii) |
 | [1019-squares-of-a-sorted-array](https://github.com/fasnas/leetcode/tree/master/1019-squares-of-a-sorted-array) |
@@ -66,6 +67,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/fasnas/leetcode/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/fasnas/leetcode/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/fasnas/leetcode/tree/master/0283-move-zeroes) |
+| [0349-intersection-of-two-arrays](https://github.com/fasnas/leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0414-third-maximum-number](https://github.com/fasnas/leetcode/tree/master/0414-third-maximum-number) |
 | [0941-sort-array-by-parity](https://github.com/fasnas/leetcode/tree/master/0941-sort-array-by-parity) |
 | [0958-sort-array-by-parity-ii](https://github.com/fasnas/leetcode/tree/master/0958-sort-array-by-parity-ii) |
@@ -113,6 +115,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/fasnas/leetcode/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/fasnas/leetcode/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/fasnas/leetcode/tree/master/0268-missing-number) |
+| [0349-intersection-of-two-arrays](https://github.com/fasnas/leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0387-first-unique-character-in-a-string](https://github.com/fasnas/leetcode/tree/master/0387-first-unique-character-in-a-string) |
 | [0389-find-the-difference](https://github.com/fasnas/leetcode/tree/master/0389-find-the-difference) |
 | [0782-jewels-and-stones](https://github.com/fasnas/leetcode/tree/master/0782-jewels-and-stones) |
@@ -126,6 +129,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/fasnas/leetcode/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/fasnas/leetcode/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/fasnas/leetcode/tree/master/0268-missing-number) |
+| [0349-intersection-of-two-arrays](https://github.com/fasnas/leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0389-find-the-difference](https://github.com/fasnas/leetcode/tree/master/0389-find-the-difference) |
 | [0414-third-maximum-number](https://github.com/fasnas/leetcode/tree/master/0414-third-maximum-number) |
 | [0941-sort-array-by-parity](https://github.com/fasnas/leetcode/tree/master/0941-sort-array-by-parity) |
@@ -171,6 +175,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/fasnas/leetcode/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/fasnas/leetcode/tree/master/0035-search-insert-position) |
 | [0268-missing-number](https://github.com/fasnas/leetcode/tree/master/0268-missing-number) |
+| [0349-intersection-of-two-arrays](https://github.com/fasnas/leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0367-valid-perfect-square](https://github.com/fasnas/leetcode/tree/master/0367-valid-perfect-square) |
 | [0441-arranging-coins](https://github.com/fasnas/leetcode/tree/master/0441-arranging-coins) |
 | [1476-count-negative-numbers-in-a-sorted-matrix](https://github.com/fasnas/leetcode/tree/master/1476-count-negative-numbers-in-a-sorted-matrix) |
